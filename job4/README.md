@@ -34,13 +34,13 @@ Setelah kita running kita buka
 
 **Bug yang ditemukan:**
 
-- [] Bug pada button **+**
-- [] Bug pada button **-**
-- [] Bug pada button **Ok**
-- [] Bug pada button **Bayar**
-- [] Bug pada qtt **+**
-- [] BUg pada qtt **-**
-- [] Bug pada **Subtotal**
+- [ ] Bug pada button **+**
+- [ ] Bug pada button **-**
+- [ ] Bug pada button **Ok**
+- [ ] Bug pada button **Bayar**
+- [ ] Bug pada qtt **+**
+- [ ] BUg pada qtt **-**
+- [ ] Bug pada **Subtotal**
 
 **Penyelesaian Bug**
 
