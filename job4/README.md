@@ -34,13 +34,34 @@ Setelah kita running kita buka
 
 **Bug yang ditemukan:**
 
+- [] Bug pada button **+**
+- [] Bug pada button **-**
+- [] Bug pada button **Ok**
+- [] Bug pada button **Bayar**
+- [] Bug pada qtt **+**
+- [] BUg pada qtt **-**
+- [] Bug pada **Subtotal**
+
+**Penyelesaian Bug**
+
 - [x] Bug pada button **+**
+
+    Pertama kita ubah dulu logic dari code yang ada di helpers sepeti gambar di bawah ini
+![](img/plus.png)
+
 - [x] Bug pada button **-**
+
+    Pertama kita ubah dulu logic dari code yang ada di helpers sepeti gambar di bawah ini
+![](img/min.png)
+
 - [x] Bug pada button **Ok**
 - [x] Bug pada button **Bayar**
 - [x] Bug pada qtt **+**
 - [x] BUg pada qtt **-**
 - [x] Bug pada **Subtotal**
 
-** Penyelesaian BUg **
+<br>
 
+### Testing NPM
+
+`Testing Logic Plus & Minus yang di Parse (Dipaksa menjadi integer)`![](img/testing.png)
