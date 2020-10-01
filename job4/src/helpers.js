@@ -5,6 +5,10 @@ function recalculatorSubtotal(price, qty) {
     return price * qty;
 }
 
+function bayar(price) {
+    return price(bayar);
+}
+
 module.exports = {
     incrementQty,
     decrementQty,

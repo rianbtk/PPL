@@ -16,6 +16,6 @@ incrButton.addEventListener('click', () => {
 });
 
 decrButton.addEventListener('click', () => {
-    qtyInput.value = decrementQty(qtyInput.value);
+    qtyInput.value = decrementQty(qtyInput.value, onclick = "valid_max()");
     subtotal.textContent = `Rp ${recalculatorSubtotal(price.value, qtyInput.value)};`
 });
