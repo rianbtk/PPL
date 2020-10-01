@@ -1,5 +1,5 @@
-# Mobile-3D-03
-# Petunjuk Laporan Praktikum Pemrograman Mobile
+# PPL-3D-03
+# PENGUJIAN PERANGKAT LUNAK
 |  |  |
 |--|--|
 | Dosen Pengampu | Muhammad Afif Hendrawan. S .Kom |
