@@ -30,3 +30,17 @@ Setelah kita running kita buka
 [http://localhost:1234/] maka akan keluar tampilan sebagai berikut
 ![](img/hasil1.png)
 
+### Permasalahan
+
+**Bug yang ditemukan:**
+
+- [x] Bug pada button **+**
+- [x] Bug pada button **-**
+- [x] Bug pada button **Ok**
+- [x] Bug pada button **Bayar**
+- [x] Bug pada qtt **+**
+- [x] BUg pada qtt **-**
+- [x] Bug pada **Subtotal**
+
+** Penyelesaian BUg **
+
