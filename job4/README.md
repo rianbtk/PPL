@@ -16,4 +16,17 @@
 ![](img/mv.png)
 
 ## Kalau sudah kita mulai proses testing
-### Pertama
+### Langkah langkahnya sebagai berikut
+    Install nmp modul
+![](img/npm.png)
+
+    Maka akan muncull modul node_modules
+![](img/pr.png)
+
+    Kita coba running
+![](img/npmstart.png)
+
+Setelah kita running kita buka
+[http://localhost:1234/] maka akan keluar tampilan sebagai berikut
+![](img/hasil1.png)
+
